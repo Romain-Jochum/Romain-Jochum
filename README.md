@@ -1,4 +1,4 @@
-# About me 😳
+# About ME
 Here is what is worth knowing about me.
 
 ## 🔭 I'm a 2nd year student
