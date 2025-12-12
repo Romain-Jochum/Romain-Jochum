@@ -5,7 +5,7 @@ Last-year **BBA student** exploring the intersection of **Big Data, Management, 
 <p align="center">
   <img src="https://www.aurlom.com/js/tinymce/uploads/Logo_Ecole_audencia.png" alt="Audencia Logo" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.ec-nantes.fr/medias/photo/logocn-q_1648479669233-png?ID_FICHE=1013500" alt="Centrale Nantes Logo" height="60"/>
+  <img src="https://www.ec-nantes.fr/medias/photo/logocn-q_1648479669233-png?ID_FICHE=1013500" height="60"/>
 </p>
 
 I am a final-year student in the **Audencia × Centrale Nantes BBA** program, specializing in **Big Data & Management**.  
