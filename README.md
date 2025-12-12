@@ -1,11 +1,10 @@
+# About Me
 
 <p align="center">
   <img src="https://www.aurlom.com/js/tinymce/uploads/Logo_Ecole_audencia.png" alt="Audencia Logo" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.ec-nantes.fr/medias/photo/logocn-q_1648479669233-png?ID_FICHE=1013500&INLINE=FALSE" height="60"/>
+  <img src="https://www.centraliens-nantes.org/medias/editor/oneshot-images/18128702275c3c6c5d7b2c3.png" height="60"/>
 </p>
-
-# 👋 About Me
 
 I am a final-year student in the **Audencia × Centrale Nantes BBA** program, specializing in **Big Data & Management**.  
 - 🔗 [Audencia](https://www.audencia.com/en)  
@@ -16,41 +15,41 @@ I’m naturally curious and enjoy deeply understanding how systems work — part
 
 ---
 
-## 🚀 What I’m Currently Working On
+## What I’m Currently Working On
 
-- 🤖 **AI Agents & RAG Systems**  
+- **AI Agents & RAG Systems**  
   Designing, building, and self-hosting AI agents using **Python**, **LangChain**, and modern LLM tooling.
 
-- 🖥️ **Infrastructure & Self-Hosting**  
+- **Infrastructure & Self-Hosting**  
   Running projects on **Linux** with **Proxmox**, focusing on reliability, reproducibility, and full-stack ownership.
 
-- ⚡ **Lean Execution**  
+- **Lean Execution**  
   I may not claim perfection, but I compensate with **structured thinking, past experience, and efficient processes** to move fast and ship consistently.
 
 Working on AI systems genuinely feels like a privilege — and a lot of fun 🚀
 
 ---
 
-## 🧩 Romain in 5 Bullet Points
+## Romain in 5 Bullet Points
 
-- 🧠 **AI & Automation**  
+- **AI & Automation**  
   Building and self-hosting AI agents and RAG pipelines with Python, LangChain, Linux, and Proxmox
 
-- 📊 **Data & Management**  
+- **Data & Management**  
   Strong background in big data and management, bridging technical solutions with real operational and business needs
 
-- ⚙️ **Systems & Productivity**  
+- **Systems & Productivity**  
   Heavy user of Obsidian, GitHub, and custom AI agents to organize knowledge and streamline output
 
-- 🎬 **Content & Communication**  
+- **Content & Communication**  
   Experience in video creation and community engagement through clear, structured communication
 
-- 🏃‍♂️ **Sport-Driven Mindset**  
+- **Sport-Driven Mindset**  
   Triathlon has taught me discipline, consistency, and long-term thinking — showing up daily, even when progress is incremental
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect 🤝
 
 I’m actively transforming my personal projects into **well-documented, accessible work** you can explore on GitHub  
 (a personal website is coming soon).
